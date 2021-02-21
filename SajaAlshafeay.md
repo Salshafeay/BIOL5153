@@ -5,20 +5,20 @@ I am a motivated, capable, and detail-oriented biological researcher focused on 
 
 ## **EDUCATION**  
 
-1. #### Curently, I am a master student /BMEG /CEMB/ University of Arkansas.   
-2. #### Master of Physiology 2013. 
+1. Curently, I am a master student /BMEG /CEMB/ University of Arkansas.   
+2. Master of Physiology 2013. 
 Baghdad University, College of Veterinary Medicine and Surgery, Physiology and Pharmacology Department, Laboratory of Chemistry and Biochemistry.    
-3. #### Bachelor of Veterinary Medicine and Surgery 	2010.
+3. Bachelor of Veterinary Medicine and Surgery 	2010.
 College of Veterinary Medicine and Surgery, Baghdad University, Iraq.
 
 
 ## WORK EXPERIENCE 
 
-1. #### Teaching assistant 	2014  
+1. Teaching assistant 	2014  
 Biochemical analysis lab, blood transportation lab, physiology lab, Al-Kut University, Iraq.  
-2. #### Teaching assistant 	2013  
+2. Teaching assistant 	2013  
 Physiology lab, biochemistry lab, Middle Technical University, Iraq.  
-3. #### Graduate researcher in the chemistry and biochemistry laboratory 	2011-2013 
+3. Graduate researcher in the chemistry and biochemistry laboratory 	2011-2013 
 College of Veterinary Medicine and Surgery, Baghdad University, Iraq.
 
 
