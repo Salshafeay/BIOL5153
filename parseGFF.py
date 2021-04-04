@@ -23,6 +23,9 @@ with open(args.gff, 'r') as gff_in:
         start  = line[3]
         end    = line[4]
         strand = line[6]
+        # extract the seq for each feature from the genome
+        print(">watermelon %s"% line[8])
+        print(genome.seq[int(start)-1:int(end)])
         # extract the sequence
         print(len(genome.seq))
 
